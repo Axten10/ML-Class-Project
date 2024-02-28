@@ -1,1 +1,2 @@
-# ML-Class-Project
+# ML-Class-Project (Signal Filtering)
+This project aims to investigate the capabilities of machine learning to filter noisy signals While many models exist to help filter stochastic signals, many of the models are often computationally expensive and may not always be the most effective filter for complex signals. However, with the use of machine learning models that can be designed to effectively classify noise from the actual response of a system there can be more time spent on post processing after data collection.
